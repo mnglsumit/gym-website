@@ -1,0 +1,83 @@
+body{
+	color:white
+	 margin:0px;
+	 padding:0px;
+	 background-image:url('C:/Users/admin/Downloads/pexels-cottonbro-4753987.jpg');
+	 
+}
+.left{
+	position:absolute;
+	color:white;
+	display:inline-block;
+	 top:20px;
+	 left:34px;
+	 
+}
+.mid{
+	color:red;
+	display: block;
+	
+	width:50%;
+	margin:20px auto;
+	
+}
+.right{
+	color:red;
+	margin-top:0px;
+	position:absolute;
+	display:inline-block;
+	right:34px;
+	top:29px;
+}
+.navbar{
+	display:inline-block;
+}
+.navbar li{
+	display:inline-block;
+	font-size:25px;
+}
+.navbar li a{
+	color:white;
+	text-decoration:none;
+	padding:27px ;
+}
+.navbar li a:hover ,.navbar li a.active{
+	
+	text-decoration:underline;
+	color:blue;
+}
+.left img {
+	width:50px
+}
+.container{
+	
+	border:2px solid green;
+	margin:106px 80px;
+	padding:48px;
+	width:33%;
+	border-radius:28px;
+}
+.form-group input{
+	text-align:center;
+	display:block;
+	width:500px;
+	padding:2px;
+	border:2px solid black;
+	margin:11px auto;
+	font-size:25px;
+	border-radius:10px;
+} 
+.container h1{
+	text-align:center
+}
+.container button{
+	display:block;
+	width:500px;
+	margin:15px auto;
+	font-size:23px;
+	border-radius:8px
+	
+}
+.container h1{
+color:pink;
+}
